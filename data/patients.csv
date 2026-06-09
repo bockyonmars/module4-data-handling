@@ -1,0 +1,8 @@
+Patient ID,Full Name,Age,Gender,City,Visit Type,Total Cost,Follow Up Needed
+1,Ada Okafor,34,Female,Lagos,General Checkup,15000,Yes
+2,John Mensah,45,Male,Accra,Emergency,35000,No
+3,Chioma Nwosu,,Female,Port Harcourt,Lab Review,12000,Yes
+4,Daniel Smith,29,Male,,General Checkup,10000,No
+5,Amina Bello,52,Female,Kano,Emergency,,Yes
+6,Samuel Green,41,Male,Lagos,General Checkup,18000,
+7,Ada Okafor,34,Female,Lagos,General Checkup,15000,Yes

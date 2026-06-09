@@ -1,0 +1,38 @@
+[
+  {
+    "patient_id": 1,
+    "diagnosis": "Hypertension",
+    "risk_level": "medium",
+    "notes": "Needs lifestyle counseling"
+  },
+  {
+    "patient_id": 2,
+    "diagnosis": "Asthma attack",
+    "risk_level": "high",
+    "notes": "Emergency treatment given"
+  },
+  {
+    "patient_id": 3,
+    "diagnosis": "Anemia",
+    "risk_level": "medium",
+    "notes": "Lab result showed low hemoglobin"
+  },
+  {
+    "patient_id": 4,
+    "diagnosis": "Routine exam",
+    "risk_level": "low",
+    "notes": "No major concern"
+  },
+  {
+    "patient_id": 5,
+    "diagnosis": "Diabetes",
+    "risk_level": "high",
+    "notes": "Follow-up required"
+  },
+  {
+    "patient_id": 6,
+    "diagnosis": null,
+    "risk_level": "low",
+    "notes": "Awaiting final review"
+  }
+]

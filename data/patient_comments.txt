@@ -1,0 +1,7 @@
+patient_id|comment
+1|Patient reports occasional headaches and dizziness.
+2|Patient came in with shortness of breath.
+3|Patient feels tired often and reports weakness.
+4|Patient came for regular wellness check.
+5|Patient needs medication review and diet education.
+6|Patient has no urgent complaints today.

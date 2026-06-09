@@ -1,0 +1,8 @@
+patient_id,full_name,age,gender,city,visit_type,total_cost,follow_up_needed,diagnosis,risk_level,notes,comment
+1,Ada Okafor,34.0,Female,Lagos,General Checkup,15000.0,Yes,Hypertension,medium,Needs lifestyle counseling,Patient reports occasional headaches and dizziness.
+2,John Mensah,45.0,Male,Accra,Emergency,35000.0,No,Asthma attack,high,Emergency treatment given,Patient came in with shortness of breath.
+3,Chioma Nwosu,37.5,Female,Port Harcourt,Lab Review,12000.0,Yes,Anemia,medium,Lab result showed low hemoglobin,Patient feels tired often and reports weakness.
+4,Daniel Smith,29.0,Male,Unknown,General Checkup,10000.0,No,Routine exam,low,No major concern,Patient came for regular wellness check.
+5,Amina Bello,52.0,Female,Kano,Emergency,15000.0,Yes,Diabetes,high,Follow-up required,Patient needs medication review and diet education.
+6,Samuel Green,41.0,Male,Lagos,General Checkup,18000.0,No,Unknown,low,Awaiting final review,Patient has no urgent complaints today.
+7,Ada Okafor,34.0,Female,Lagos,General Checkup,15000.0,Yes,,,,
