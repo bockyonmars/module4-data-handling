@@ -69,14 +69,3 @@ The final cleaned file is saved as:
 output/cleaned_patient_data.csv
 ```
 
-## Submission Files
-
-Submit:
-
-```text
-module4_data_ingestion.ipynb
-requirements.txt
-README.md
-data/
-output/cleaned_patient_data.csv
-```
